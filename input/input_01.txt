@@ -1,0 +1,11 @@
+frame_01.obj 0
+frame_03.obj 1000
+frame_01.obj 2000
+frame_03.obj 2500
+frame_01.obj 3000
+frame_03.obj 3250
+frame_01.obj 3500
+frame_03.obj 4000
+frame_01.obj 4500
+frame_03.obj 5500
+frame_01.obj 6500
